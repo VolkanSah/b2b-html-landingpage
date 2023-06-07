@@ -1,0 +1,164 @@
+/* General Styling */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+/* Header Styling */
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+/* Hero Section Styling */
+.hero {
+  background-color: #f8f8f8;
+  text-align: center;
+  padding: 80px 0;
+}
+
+.hero h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 18px;
+  color: #777;
+}
+
+.btn {
+  display: inline-block;
+  padding: 12px 24px;
+  margin-top: 20px;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #555;
+}
+
+/* Features Section Styling */
+.features {
+  background-color: #fff;
+  padding: 80px 0;
+}
+
+.features h2 {
+  font-size: 32px;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.feature {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.feature img {
+  width: 80px;
+  height: 80px;
+  margin-bottom: 20px;
+}
+
+.feature h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.feature p {
+  color: #777;
+}
+
+/* Testimonial Section Styling */
+.testimonial {
+  background-color: #f8f8f8;
+  padding: 80px 0;
+}
+
+.testimonial h2 {
+  font-size: 32px;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.testimonial-item {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.testimonial-item blockquote {
+  font-size: 20px;
+  margin-bottom: 20px;
+  color: #777;
+}
+
+.testimonial-item p {
+  font-weight: bold;
+}
+
+/* Contact Section Styling */
+.contact {
+  background-color: #eee;
+  padding: 80px 0;
+}
+
+.contact h2 {
+  font-size: 32px;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.contact p {
+  font-size: 18px;
+  color: #777;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.contact input,
+.contact textarea {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.contact button {
+  display: block;
+  padding: 12px 24px;
+  margin-top: 20px;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  border: none;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+  cursor: pointer;
+}
+
+.contact button:hover {
+  background-color: #555;
+}
+
+/* Footer Styling */
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
