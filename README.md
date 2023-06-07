@@ -1,3 +1,4 @@
 # b2b-html
-simple landingpage in html/css
+simple & clean landingpage in html/css
+### Screenshot
 ![b2b html template](b2bhtml.png)
